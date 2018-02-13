@@ -21,10 +21,9 @@ def third_challenge
       :hero_friends => []
    },
    :capulet => {
-      :patriarch => {
-        he Capulet :patriarch has
-a :name of "Lord Capulet" and
-an :age of "50"
+     
+ :name =>"Lord Capulet", 
+ :age => "50"
 
         #your key/value pairs here
         },
