@@ -29,10 +29,10 @@ an :age of "50".
         #your key/value pairs here
         },
       :matriarch => {
-        
-        :name => "Lady Capulet",  
+
+        :name => "Lady Capulet",
         :age => "51"
-      
+
         #your key/value pairs here
         },
       :heroine => {
