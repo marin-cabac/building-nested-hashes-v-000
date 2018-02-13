@@ -24,7 +24,7 @@ def third_challenge
       :patriarch => {
         he Capulet :patriarch has
 a :name of "Lord Capulet" and
-an :age of "50".
+an :age of "50"
 
         #your key/value pairs here
         },
